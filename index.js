@@ -1,6 +1,6 @@
-function add(a, b){return}
-function substract (a, b){return}
-function multiply(a, b){return}
-function divide(a, b){return}
-function inc(a, b){return}
-function dec(a, b){return}
+function add(a, b){return a+b}
+function substract (a, b){return a-b}
+function multiply(a, b){return a*b}
+function divide(a, b){return a/b}
+function inc(a){return a+1}
+function dec(a){return a-1}
